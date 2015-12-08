@@ -1,4 +1,4 @@
-# coded by Jahângir (me [at] jahangir [dat] ninja)
+; coded by Jahângir (me [at] jahangir [dat] ninja)
 #NoEnv  ; Recommended for performance and compatibility with future AutoHotkey releases.
 #SingleInstance force
 ; #Warn  ; Enable warnings to assist with detecting common errors.
